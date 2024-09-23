@@ -6,7 +6,6 @@ Bienvenue sur le site dédié aux fans de Naruto ! Ici, nous partageons tout ce 
 
 ![Naruto et Sasuke](https://upload.wikimedia.org/wikipedia/en/9/94/NarutoCoverTankobon1.jpg)
 
-## Block Elements
 
 ### Paragraphes et Citations
 
@@ -14,7 +13,7 @@ Naruto a une histoire inspirante.
 
 > "Je ne renonce jamais, c’est ma façon de devenir Hokage !" — Naruto Uzumaki
 
-## Listes
+## Qui sont les personnages principaux de Naruto ?
 
 - Naruto Uzumaki
 - Sasuke Uchiha
@@ -23,7 +22,7 @@ Naruto a une histoire inspirante.
 1. Apprendre le Rasengan
 2. Devenir Hokage
 
-## Tables
+## Et quelles sont leurs techniques phares ?
 
 | Personnage   | Technique        |
 |--------------|------------------|
