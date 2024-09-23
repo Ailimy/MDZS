@@ -1,13 +1,35 @@
 # Bienvenue sur le Fansite Naruto
 
-Bienvenue sur le site des fans de Naruto ! Vous trouverez ici des informations sur l'univers du manga et de l'anime, des personnages, des techniques ninja et bien plus encore.
+Bienvenue sur le site dédié aux fans de Naruto ! Ici, nous partageons tout ce qu'il y a à savoir sur les personnages, les techniques ninja et l'univers incroyable créé par Masashi Kishimoto.
 
+## Images
 
-- **Emphasis** : *Naruto Uzumaki* est le héros du manga.
-- **Strikethrough** : ~~Sasuke Uchiha~~ est en quête de vengeance.
-- **Lien** : [Visitez le site officiel de Naruto](https://www.naruto.com).
+![Naruto et Sasuke](https://upload.wikimedia.org/wikipedia/en/9/94/NarutoCoverTankobon1.jpg)
 
+## Block Elements
 
-```python
-def rasengan(user):
-    print(f"{user} utilise le Rasengan!")
+### Paragraphes et Citations
+
+Naruto a une histoire inspirante.
+
+> "Je ne renonce jamais, c’est ma façon de devenir Hokage !" — Naruto Uzumaki
+
+## Listes
+
+- Naruto Uzumaki
+- Sasuke Uchiha
+- Sakura Haruno
+  - Membre de l'Équipe 7
+1. Apprendre le Rasengan
+2. Devenir Hokage
+
+## Tables
+
+| Personnage   | Technique        |
+|--------------|------------------|
+| Naruto       | Rasengan          |
+| Sasuke       | Chidori           |
+
+---
+
+Merci d'avoir visité notre site ! N'oubliez pas de consulter les autres pages pour plus d'informations sur les personnages et les techniques de Naruto.
