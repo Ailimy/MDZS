@@ -26,4 +26,4 @@ Kakashi est le leader de l'équipe 7, un ninja d'élite connu sous le nom de "Ni
 
 ---
 
-[Retour à l'accueil](./index.md)
+[Retour à l'accueil](index.md)
